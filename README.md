@@ -1,2 +1,4 @@
-# sql-data-warehouse-project
-Building a modern data warehouse with SQL Server
+# Data Warehouse and Analytics Project
+This project demonstrates a comperhensive data warehousing and analytics solution.
+
+---
